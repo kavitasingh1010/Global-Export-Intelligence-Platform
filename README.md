@@ -52,7 +52,7 @@ https://export-market-intel-ai-v-2.replit.app/
 https://github.com/kavitasingh1010/Global-Export-Intelligence-Platform
 
 ### Complete Source Code Archive
-[PASTE_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1Gy3NRKzRUYCIC5fb33W7w2D17fNFqtPk?usp=sharing)
+(https://drive.google.com/drive/folders/1Gy3NRKzRUYCIC5fb33W7w2D17fNFqtPk?usp=sharing)
 
 ### Developer
 Kavita Singh
