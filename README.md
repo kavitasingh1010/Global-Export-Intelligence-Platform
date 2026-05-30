@@ -1,5 +1,4 @@
 # Global Export Intelligence Platform
-
 ## Overview
 
 Global Export Intelligence Platform is an AI-powered market research and decision-support platform designed to help exporters evaluate international market opportunities.
@@ -45,12 +44,18 @@ The platform analyzes products and provides:
 - AI-Assisted Analysis
 
 ## Live Application
-
 https://export-market-intel-ai-v-2.replit.app/
 
-## Developer
+## Project Resources
 
-Developed by Kavita Singh
+### GitHub Repository
+https://github.com/kavitasingh1010/Global-Export-Intelligence-Platform
+
+### Complete Source Code Archive
+[PASTE_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1Gy3NRKzRUYCIC5fb33W7w2D17fNFqtPk?usp=sharing)
+
+### Developer
+Kavita Singh
 
 ## Academic Project
 
