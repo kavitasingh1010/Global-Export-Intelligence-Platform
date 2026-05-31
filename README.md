@@ -47,6 +47,7 @@ The platform analyzes products and provides:
 https://export-market-intel-ai-v-2.replit.app/
 
 ## Project Resources
+https://drive.google.com/drive/folders/1K9BzsKk0_hoG3MItyUt8DxZXdb-L-tMs?usp=sharing
 
 ### GitHub Repository
 https://github.com/kavitasingh1010/Global-Export-Intelligence-Platform
